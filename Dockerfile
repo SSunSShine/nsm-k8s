@@ -1,1 +1,1 @@
-FROM gcr.io/spiffe-io/spire-agent:1.2.3
+FROM ghcr.io/networkservicemesh/cmd-forwarder-vpp:v1.6.1
