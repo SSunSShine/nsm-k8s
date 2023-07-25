@@ -1,1 +1,1 @@
-FROM gcr.io/spiffe-io/spire-server:1.2.3
+gcr.io/spiffe-io/wait-for-it
