@@ -1,1 +1,1 @@
-FROM gcr.io/spiffe-io/spire-agent:1.2.3
+FROM gcr.io/spiffe-io/spire-server:1.2.3
