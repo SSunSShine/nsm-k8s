@@ -1,1 +1,1 @@
-FROM gcr.io/spiffe-io/k8s-workload-registrar:1.2.3
+FROM ghcr.io/networkservicemesh/cmd-nsmgr:v1.6.1
