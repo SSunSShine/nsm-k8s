@@ -1,1 +1,1 @@
-gcr.io/spiffe-io/wait-for-it
+FROM gcr.io/spiffe-io/wait-for-it
