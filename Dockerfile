@@ -1,1 +1,1 @@
-FROM ghcr.io/networkservicemesh/cmd-nse-icmp-responder-vpp:v1.9.0
+FROM ghcr.io/networkservicemesh/cmd-nsc:v1.9.0
